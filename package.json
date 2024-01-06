@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@upgradableweb/icons": "^1.0.0",
+    "@upgradableweb/utils": "^1.0.0"
+  },
+  "name": "input",
+  "version": "1.0.0",
+  "description": "form input component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "react_input"
+  ],
+  "author": "Bharat",
+  "license": "MIT"
+}
