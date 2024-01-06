@@ -1,9 +1,5 @@
 {
-  "dependencies": {
-    "@upgradableweb/icons": "^1.0.0",
-    "@upgradableweb/utils": "^1.0.0"
-  },
-  "name": "input",
+  "name": "@upgradableweb/input",
   "version": "1.0.0",
   "description": "form input component",
   "main": "index.js",
@@ -12,8 +8,12 @@
   },
   "keywords": [
     "input",
-    "react_input"
+    "react input"
   ],
   "author": "Bharat",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@upgradableweb/icons": "^1.0.0",
+    "@upgradableweb/utils": "^1.0.0"
+  }
 }
